@@ -1,0 +1,17 @@
+Anasayfa
+->	Yatay logo png Yükseklik:30px
+->	Banner resim 1920x500px
+->	50-75 karakter slogan.
+->	4 ya da 6 adet kırmızı küpü anlatan başlık ve her bir başlık için 150-200 karakter özet metin. Başlık sayısı çift sayı ya da 3'ün katları olmak koşuluyla arttırılabilir.
+->	5-10 adet ürün-hizmet ana başlığı, her bir başlık için 100-150 karakter özet metin ve her bir başlık için 340x220px resim.
+->	5-10 adet referans 200x40px resim.
+->	İsteğe bağlı 5 adet SSS.
+
+Hakkımızda
+->	Banner 1060x300px 3 adet resim.
+->	Min 500 karakter hakkımızda yazısı. İstersen misyon/vizyon için ayrıca min 200 karakter.
+
+İletişim
+->	İletişim bilgileri.
+->	Sosyal medya hesapları.
+->	Harita.
